@@ -1,0 +1,2 @@
+setFlow.C
+LIB = $(FOAM_USER_LIBBIN)/libfieldSetFlowStream
